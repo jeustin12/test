@@ -1,0 +1,2 @@
+class CategoryUpdateInput {}
+export { CategoryUpdateInput };

@@ -1,0 +1,2 @@
+class CategoryCreateInput {}
+export { CategoryCreateInput };
